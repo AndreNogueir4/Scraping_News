@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Globo",
+        "modulo": "scraping_globo.main"
+    },
+    {
+        "nome": "CNN",
+        "modulo": "scraping_cnn.main"
+    },
+    {
+        "nome": "R7",
+        "modulo": "scraping_r7.main"
+    },
+    {
+        "nome": "UOL",
+        "modulo": "scraping_uol.main"
+    }
+]
